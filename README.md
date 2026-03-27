@@ -6,6 +6,8 @@ A .NET 10 Web API that provides weather forecast data for Singapore by integrati
 
 This API fetches real-time two-hour weather forecasts from [Singapore's Open Data API](https://api-open.data.gov.sg/v2/real-time/api/two-hr-forecast) and provides filtering capabilities by area.
 
+❌ OpenWeatherMap has no historical and no alert (require subscription to have it).
+
 ## Features
 
 - ✅ Fetch two-hour weather forecasts for Singapore
